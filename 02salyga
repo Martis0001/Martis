@@ -1,0 +1,7 @@
+#Ivedamas skaicius patikrinti ar jis teigiamas ar ne
+sk = int(input)('sk= '))
+if sk > 0 :
+    print('Teigiamas')
+    else :
+        print('NeTeigiamas')
+        
