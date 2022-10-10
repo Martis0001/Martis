@@ -13,4 +13,4 @@ if sk == 0:
     print ('negali buti')
 
 elif sk>= 1  sk<=3
-    print (neigiamas)
+    print ('neigiamas')
